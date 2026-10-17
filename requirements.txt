@@ -1,0 +1,14 @@
+falkordb==1.8.0
+python-dotenv==1.2.4
+requests==2.34.2
+mcp==2.3.0
+anthropic==1.14.0
+langgraph==1.2.15
+pydantic==2.14.1
+fastapi==0.143.1
+uvicorn==0.54.0
+
+# Testing and linting
+pytest==9.1.1
+httpx==0.28.1
+ruff==0.17.0
