@@ -49,3 +49,11 @@ A log of what the AI assistant (Claude Code) did during the build.
 ## Clean up — Oct 17, 2026
 
 - Cleared all test cases and memory nodes, so Sandeep gets a clean slate to showcase the demo.
+
+## Ship — Oct 18, 2026
+
+- Drafted the blog post from the README, `QUERIES.md` and the build notes; Sandeep reviewed it and
+  published it on [dev.to](https://dev.to/sandeepkr24/pitgraph-building-an-f1-strategist-whose-memory-is-a-graph-567d).
+- Drafted the demo video script and suggested the video title; Sandeep recorded and uploaded the
+  [video](https://youtu.be/WNK2jVixxxM).
+- Cleared the memory graphs again before recording, and added the video and blog links to the README.

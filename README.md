@@ -9,6 +9,10 @@ Built for **Graph Hacks** (FalkorDB), entered in tracks:
 **Live demo:** https://wmdfalkor-pitgraph.onrender.com/
 (Render free tier: the agent is asleep when idle, so the first boot may take up to 1 minute.)
 
+**Demo video:** https://youtu.be/WNK2jVixxxM
+
+**Blog post:** [PitGraph: building an F1 strategist whose memory is a graph](https://dev.to/sandeepkr24/pitgraph-building-an-f1-strategist-whose-memory-is-a-graph-567d) (dev.to)
+
 ---
 
 ## What it does
